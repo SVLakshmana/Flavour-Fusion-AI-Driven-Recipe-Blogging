@@ -1,7 +1,6 @@
 #Configure your Google Generative AI API key 
 
-api_key= "AIzaSyB5U5-f1edV199djSKEcqDoFLcI216uYyI"
-genai.configure(api_key=api_key)
+api_key= "
 
 
 
